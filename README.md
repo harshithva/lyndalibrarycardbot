@@ -17,5 +17,5 @@ Just a simple automation python script to create starklibrary card.
 
 <img src="https://s5.gifyu.com/images/ezgif.com-gif-makerfa62fe3f41179e94.gif" alt="ezgif.com-gif-makerfa62fe3f41179e94.gif" width="690" height="382" class="d-lazyload">
 
-Author
+# Author
 Harshith VA

@@ -12,6 +12,7 @@ Just a simple automation python script to create starklibrary card.
 
 * Run Bot/Script: python run_me.py
 
+* Note: Use VPN connect to united states before running the bot.
 
 * All Bugs resolved please report if found any.
 
